@@ -18,10 +18,10 @@ I believe in sharing knowledge with the community. Some of my talks:
 
 - **"Deep dive into the select statement"** - GoLab 2025
 - **["Having fun with the go source code"](https://jespino.github.io/having-fun-with-the-go-source-code-workshop/)** - GoLab 2025 Workshop
-- **"Deep dive into the sync package"** - GopherCon UK 2025
-- **"Deep dive into a Go binary"** - GoLab 2024
-- **"Understanding the Go Compiler"** - GopherCon UK 2023
-- **"Understanding the Go Runtime"** - Golab 2023
+- **["Deep dive into the sync package"](https://youtu.be/DOj1G7CMT-I)** - GopherCon UK 2025
+- **["Deep dive into a Go binary"](https://youtu.be/EsfzzJaimvQ)** - GoLab 2024
+- **["Understanding the Go Compiler"](https://youtu.be/qnmoAA0WRgE)** - GopherCon UK 2023
+- **["Understanding the Go Runtime"](https://youtu.be/YpRNFNFaLGY)** - Golab 2023
 
 While Go is one of my key areas of expertise, I also speak about other topics including memory management, PostgreSQL database internals, and applied generative AI in software development.
 
