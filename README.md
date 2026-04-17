@@ -9,7 +9,9 @@ I'm a software engineer passionate about understanding how things work at a fund
 - **Principal Engineer @ [Ona](https://ona.com)** - Working primarily with Go and TypeScript
 - **Open Source Contributor** - Contributor to projects like Mattermost, Penpot, Taiga, and testcontainers-go
 - **Conference Speaker** - Regular speaker at GoLab, GopherCon UK, FOSDEM, and others, focusing on advanced Go internals
-- **Book Writer** - Author of [Modern REST API Development in Go](https://www.packtpub.com/en-us/product/modern-rest-api-development-in-go-9781836205364)
+- **Book Writer** - Author of:
+  - [Modern REST API Development in Go](https://www.packtpub.com/en-us/product/modern-rest-api-development-in-go-9781836205364)
+  - [Deep Dive into a SQL Query](https://leanpub.com/deep-dive-into-a-sql-query) ([Spanish edition: Anatomía de una consulta SQL](https://leanpub.com/anatomia-de-una-consulta-sql))
 - **Blog Writer** - Writing about software internals at [internals-for-interns.com](https://internals-for-interns.com)
 
 ## 🎤 Speaking & Teaching
