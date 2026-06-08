@@ -6,7 +6,7 @@ I'm a software engineer passionate about understanding how things work at a fund
 
 ## 🔭 What I Do
 
-- **Principal Engineer @ [Ona](https://ona.com)** - Working primarily with Go and TypeScript
+- **Principal Engineer @ [VictoriaMetrics](https://victoriametrics.com)** - Working primarily with Go and TypeScript
 - **Open Source Contributor** - Contributor to projects like Mattermost, Penpot, Taiga, and testcontainers-go
 - **Conference Speaker** - Regular speaker at GoLab, GopherCon UK, FOSDEM, and others, focusing on advanced Go internals
 - **Book Writer** - Author of:
