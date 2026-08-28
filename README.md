@@ -18,7 +18,8 @@ I'm a software engineer passionate about understanding how things work at a fund
 
 I believe in sharing knowledge with the community. Some of my talks:
 
-- **"Deep dive into the select statement"** - GoLab 2025
+- **["Deep dive into the select statement"](https://youtu.be/fH5hoZJL_tQ)** - GopherCon UK 2026
+- **["Brewed for Speed: How Go's Green Tea GC Works"](https://youtu.be/aQ9JsWyjRy8)** - FOSDEM 2026
 - **["Having fun with the go source code"](https://jespino.github.io/having-fun-with-the-go-source-code-workshop/)** - GoLab 2025 Workshop
 - **["Deep dive into the sync package"](https://youtu.be/DOj1G7CMT-I)** - GopherCon UK 2025
 - **["Deep dive into a Go binary"](https://youtu.be/EsfzzJaimvQ)** - GoLab 2024
